@@ -68,3 +68,5 @@ and user documentation. CENTAURI's original application source is private.
 Bundled open-source projects and downloaded tone assets retain their respective
 licenses. CENTAURI names/artwork are not granted an open-source license by this
 release repository. See the included third-party notices and website source links.
+
+OS downloads use GitHub Releases as the primary host, with a MEGA mirror on the official downloads page. Windows is a private preview shared directly by the creator.

@@ -144,3 +144,5 @@ uninstalling does not automatically erase personal sounds or unlink a license.
 Third-party names belong to their owners. Downloaded captures/IRs have their own
 licenses. Included open-source components retain their original notices and
 source-availability obligations; see the bundled notices and OS source link.
+
+OS downloads use GitHub Releases as the primary host, with a MEGA mirror on the official downloads page. Windows is a private preview shared directly by the creator.
