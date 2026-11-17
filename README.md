@@ -17,7 +17,7 @@ your everyday operating system and run CENTAURI as a standalone app.
 
 | Edition | Your setup | Download |
 | --- | --- | --- |
-| Windows standalone | Windows 10/11 x86-64 + compatible audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Setup-0.9.0-preview.1-windows-x86_64.exe) |
+| Windows standalone | Windows 10/11 x86-64 + compatible audio interface | Private preview — shared directly by the creator |
 | Linux standalone | x86-64 Linux + GTK/WebKit runtime + audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Setup-0.9.0-preview.1-linux-x86_64.run) |
 | Android companion | Android 8+ + a CENTAURI OS processor | [Release APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Remote-0.9.0-preview.1-release.apk) |
 | CENTAURI OS | Compatible x86-64 UEFI computer | **[Get CENTAURI OS → official website](https://centauri.iceiy.com/downloads.html#os)** |

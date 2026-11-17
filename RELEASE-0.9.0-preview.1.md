@@ -2,12 +2,11 @@
 
 CENTAURI turns a compatible computer and audio interface into a guitar rig:
 native audio processing, an amp/cab/effect editor, eight scenes per preset and
-MIDI control. This is the first public preview, with installers for Windows and
-Linux, an Android Bluetooth companion and a separate three-mode OS image.
+MIDI control. This is the first public preview, with a Linux installer, an Android Bluetooth companion and a separate three-mode OS image.
 
 ## Downloads
 
-* [Windows x86-64 installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Setup-0.9.0-preview.1-windows-x86_64.exe)
+* Windows standalone: private preview, shared directly by the creator.
 * [Linux x86-64 installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Setup-0.9.0-preview.1-linux-x86_64.run)
 * [Android companion APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Remote-0.9.0-preview.1-release.apk)
 * **[Get CENTAURI OS → official website](https://centauri.iceiy.com/downloads.html#os)**
@@ -125,7 +124,7 @@ signed-upgrade cycle on Windows remains to be qualified. Software licensing does
 not make an administrator-controlled computer uncrackable; Secure Boot, TPM-backed
 activation and verified-root protection are not configured.
 
-The Windows download is the creator-built, audio-tested installer. The newest
+The private Windows preview is the creator-built, audio-tested installer. The newest
 native launch fix for the website/Facebook links is in the synced source for its
 next rebuild; if those Settings links do not open, use the links on this page.
 
