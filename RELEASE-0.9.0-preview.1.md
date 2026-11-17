@@ -146,3 +146,7 @@ licenses. Included open-source components retain their original notices and
 source-availability obligations; see the bundled notices and OS source link.
 
 OS downloads use GitHub Releases as the primary host, with a MEGA mirror on the official downloads page. Windows is a private preview shared directly by the creator.
+
+## Android layout update — 17 November 2026
+
+Android build 16 keeps the landscape editor header visible, compacts the signal chains and opens effect controls in a dismissible slide-up overlay. The preset chooser uses four columns in both orientations, square buttons in portrait and wide rectangles in landscape. Slot numbers align independently of preset-name length, and landscape rows no longer overlap. Existing app data is retained when updating the release-signed app.
