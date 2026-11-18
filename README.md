@@ -18,11 +18,11 @@ your everyday operating system and run CENTAURI as a standalone app.
 | Edition | Your setup | Download |
 | --- | --- | --- |
 | Windows standalone | Windows 10/11 x86-64 + compatible audio interface | Private preview — shared directly by the creator |
-| Linux standalone | x86-64 Linux + GTK/WebKit runtime + audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Setup-0.9.0-preview.1-linux-x86_64.run) |
-| Android companion | Android 8+ + a CENTAURI OS processor | [Release APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.1/CENTAURI-Remote-0.9.0-preview.1-release.apk) |
+| Linux standalone | x86-64 Linux + GTK/WebKit runtime + audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.2/CENTAURI-Setup-0.9.0-preview.2-linux-x86_64.run) |
+| Android companion | Android 8+ + a CENTAURI OS processor | [Release APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.2/CENTAURI-Remote-0.9.0-preview.2-release.apk) |
 | CENTAURI OS | Compatible x86-64 UEFI computer | **[Get CENTAURI OS → official website](https://centauri.iceiy.com/downloads.html#os)** |
 
-Read the [detailed preview release notes](https://github.com/starqiosk-cyber/centauri-releases/releases/tag/v0.9.0-preview.1)
+Read the [detailed preview release notes](https://github.com/starqiosk-cyber/centauri-releases/releases/tag/v0.9.0-preview.2)
 and [requirements/checksums](https://centauri.iceiy.com/downloads.html) before
 installing. Standalone downloads use installers. OS images and corresponding
 third-party sources are linked from the website.
@@ -44,6 +44,14 @@ third-party sources are linked from the website.
   Choose the display load that suits the computer.
 
 ![CENTAURI native Stage Display](screenshots/stage-desktop.png)
+
+## New in preview.2
+
+Fast Pitch beta reduces its measured wet delay to 8ms at48kHz (interface latency
+is additional; low-note quality remains beta). Android/Linux get the refreshed
+AI chat and audition workflow, Gemini/OpenRouter Free only, inline trial labels
+and clearer preset/MIDI layouts. Android adds optional review-before-send voice
+dictation. Windows is excluded from this update and stays private.
 
 ## Activation and updates
 
