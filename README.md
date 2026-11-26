@@ -17,7 +17,7 @@ your everyday operating system and run CENTAURI as a standalone app.
 
 | Edition | Your setup | Download |
 | --- | --- | --- |
-| Windows standalone | Windows 10/11 x86-64 + compatible audio interface | Private preview — shared directly by the creator |
+| Windows standalone | Windows 10/11 x86-64 + compatible audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.3/CENTAURI-Setup-0.9.0-preview.3-windows-x86_64.exe) |
 | Linux standalone | x86-64 Linux + GTK/WebKit runtime + audio interface | [Branded installer](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.2/CENTAURI-Setup-0.9.0-preview.2-linux-x86_64.run) |
 | Android companion | Android 8+ + a CENTAURI OS processor | [Release APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.2/CENTAURI-Remote-0.9.0-preview.2-release.apk) |
 | CENTAURI OS | Compatible x86-64 UEFI computer | **[Get CENTAURI OS → official website](https://centauri.iceiy.com/downloads.html#os)** |
@@ -45,9 +45,9 @@ third-party sources are linked from the website.
 
 ![CENTAURI native Stage Display](screenshots/stage-desktop.png)
 
-## New in preview.3 (OS only)
+## New in preview.3
 
-CENTAURI OS Full GUI now includes a branded file manager, storage usage, Wi-Fi settings for detected supported adapters, and explicit two-finger touchpad scrolling. The shared Fast Pitch beta remains at its approved 8 ms wet processing delay. The Android and Linux downloads remain preview.2; the matching Android APK embedded in this OS image is also preview.2.
+Windows standalone is now available as a public preview installer. CENTAURI OS Full GUI includes a branded file manager, storage usage, Wi-Fi settings for detected supported adapters, and explicit two-finger touchpad scrolling. The shared Fast Pitch beta remains at its approved 8 ms wet processing delay. The Android and Linux downloads remain preview.2; the matching Android APK embedded in this OS image is also preview.2.
 
 The OS update policy requested by the creator is OS internet update first, with Android Bluetooth transfer only as fallback. Neither full-system path is implemented yet; the current supported installed-system update remains a matching-kernel USB application update. A verified A/B updater is needed.
 
@@ -57,7 +57,7 @@ Fast Pitch beta reduces its measured wet delay to 8ms at48kHz (interface latency
 is additional; low-note quality remains beta). Android/Linux get the refreshed
 AI chat and audition workflow, Gemini/OpenRouter Free only, inline trial labels
 and clearer preset/MIDI layouts. Android adds optional review-before-send voice
-dictation. Windows is excluded from this update and stays private.
+dictation. Windows was not included in preview.2; a separate preview.3 installer is now publicly available.
 
 ## Activation and updates
 
@@ -83,4 +83,4 @@ Bundled open-source projects and downloaded tone assets retain their respective
 licenses. CENTAURI names/artwork are not granted an open-source license by this
 release repository. See the included third-party notices and website source links.
 
-OS downloads use GitHub Releases as the primary host, with a MEGA mirror on the official downloads page. Windows is a private preview shared directly by the creator.
+OS downloads use GitHub Releases as the primary host, with a MEGA mirror on the official downloads page. Windows standalone preview.3 is publicly available from this GitHub release.

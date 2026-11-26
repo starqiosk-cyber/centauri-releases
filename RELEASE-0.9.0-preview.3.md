@@ -1,6 +1,15 @@
-# CENTAURI OS 0.9.0-preview.3
+# CENTAURI 0.9.0-preview.3
 
-This OS-only preview adds the Full GUI tools requested for CENTAURI's dedicated appliance. Linux standalone and Android remain at their previously published preview versions. Windows is not part of this public release.
+This preview contains the CENTAURI OS image and the Windows standalone installer. Linux standalone and Android remain at preview.2.
+
+## Windows standalone
+
+- Public preview installer: `CENTAURI-Setup-0.9.0-preview.3-windows-x86_64.exe`
+- Size: 3,417,717 bytes
+- SHA-256: `ab79e61f603806ff7aa0437fa0f7ec5c761f20e04a42145a4a972e022df2322f`
+- Windows 10/11 x86-64, Microsoft WebView2 Runtime, and a compatible audio interface.
+- The owner built this installer on Windows. It was not executed in the Linux
+  publishing environment; broad hardware and upgrade qualification is ongoing.
 
 ## What's new in CENTAURI OS
 
@@ -22,4 +31,4 @@ This raw x86-64 UEFI image is for a compatible computer with SSE4.2. Writing the
 
 VM and build checks do not certify a physical Wi-Fi adapter, laptop touchpad, audio latency, thermals, Bluetooth coexistence or every GPU. The update flow remains a preview and requires hardware qualification.
 
-The image embeds the already released Android preview.2 companion. Get Linux standalone and Android downloads from the previous public release; Windows remains private and excluded.
+The image embeds the already released Android preview.2 companion. Get Linux standalone and Android downloads from the previous public release. The Windows installer is attached to this preview.3 release.
