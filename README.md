@@ -22,7 +22,7 @@ your everyday operating system and run CENTAURI as a standalone app.
 | Android companion | Android 8+ + a CENTAURI OS processor | [Release APK](https://github.com/starqiosk-cyber/centauri-releases/releases/download/v0.9.0-preview.2/CENTAURI-Remote-0.9.0-preview.2-release.apk) |
 | CENTAURI OS | Compatible x86-64 UEFI computer | **[Get CENTAURI OS → official website](https://centauri.iceiy.com/downloads.html#os)** |
 
-Read the [detailed preview release notes](https://github.com/starqiosk-cyber/centauri-releases/releases/tag/v0.9.0-preview.2)
+Read the [latest OS preview notes](https://github.com/starqiosk-cyber/centauri-releases/releases/tag/v0.9.0-preview.3) and the [standalone/Android preview.2 notes](https://github.com/starqiosk-cyber/centauri-releases/releases/tag/v0.9.0-preview.2)
 and [requirements/checksums](https://centauri.iceiy.com/downloads.html) before
 installing. Standalone downloads use installers. OS images and corresponding
 third-party sources are linked from the website.
@@ -44,6 +44,12 @@ third-party sources are linked from the website.
   Choose the display load that suits the computer.
 
 ![CENTAURI native Stage Display](screenshots/stage-desktop.png)
+
+## New in preview.3 (OS only)
+
+CENTAURI OS Full GUI now includes a branded file manager, storage usage, Wi-Fi settings for detected supported adapters, and explicit two-finger touchpad scrolling. The shared Fast Pitch beta remains at its approved 8 ms wet processing delay. The Android and Linux downloads remain preview.2; the matching Android APK embedded in this OS image is also preview.2.
+
+The OS update policy requested by the creator is OS internet update first, with Android Bluetooth transfer only as fallback. Neither full-system path is implemented yet; the current supported installed-system update remains a matching-kernel USB application update. A verified A/B updater is needed.
 
 ## New in preview.2
 
